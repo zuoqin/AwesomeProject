@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><project xsi:schemaLocation="http://maven.apache.org/DECORATION/1.0.1 http://maven.apache.org/xsd/decoration-1.0.1.xsd" name="HttpComponents" xmlns="http://maven.apache.org/DECORATION/1.0.1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <bannerLeft>
+    <name>Apache</name>
+    <src>http://www.apache.org/images/asf_logo_wide.gif</src>
+    <href>http://www.apache.org/</href>
+  </bannerLeft>
+  <bannerRight>
+    <name>HttpComponents</name>
+    <src>http://hc.apache.org/images/logos/httpcomponents.png</src>
+    <href>http://hc.apache.org/</href>
+  </bannerRight>
+  <body>
+    <links>
+      <item name="Apache" href="http://www.apache.org/" />
+      <item name="HttpComponents" href="http://hc.apache.org/index.html" />
+    </links>
+    <menu name="Overview">
+      <item name="About" href="index.html" />
+      <item name="News" href="news.html" />
+      <item name="Powered by" href="poweredby.html" />
+      <item name="Download" href="downloads.cgi" />
+      <item name="Mailing Lists" href="mail.html" />
+      <item name="Get Involved" href="get-involved.html" />
+    </menu>
+    <menu name="Documentation">
+      <item name="For Users" href="user-docs.html" />
+      <item name="For Developers" href="dev-docs.html" />
+      <item name="Wiki (external)" href="http://wiki.apache.org/HttpComponents/" />
+    </menu>
+    <menu name="Components">
+      <item name="HttpClient (GA)" href="httpcomponents-client-ga/index.html" />
+      <item name="HttpCore (GA)" href="httpcomponents-core-ga/index.html" />
+      <item name="HttpClient (DEV)" href="httpcomponents-client-dev/index.html" />
+      <item name="HttpCore (DEV)" href="httpcomponents-core-dev/index.html" />
+    </menu>
+    <menu name="Legacy">
+      <item name="Commons HttpClient" href="httpclient-3.x/index.html" />
+    </menu>
+    <menu name="Project">
+      <item name="Status" href="status.html" />
+      <item name="Charter" href="charter.html" />
+      <item name="Bylaws" href="bylaws.html" />
+      <item name="Goals" href="goals.html" />
+    </menu>
+    <menu inherit="bottom" ref="reports" />
+    <menu name="ASF" inherit="bottom">
+      <item name="Foundation" href="http://www.apache.org/foundation/" />
+      <item name="Sponsor Apache" href="http://www.apache.org/foundation/sponsorship.html" />
+      <item name="Thanks" href="http://www.apache.org/foundation/thanks.html" />
+    </menu>
+  </body>
+</project>
